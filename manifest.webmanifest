@@ -1,0 +1,15 @@
+{
+  "name": "کنسول مهندسی الکترولایزر",
+  "short_name": "الکترولایزر",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./electrolyzer-console.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06171a",
+  "theme_color": "#06171a",
+  "icons": [
+    { "src": "assets/electrolyzer-hmi-icon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/electrolyzer-hmi-icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
